@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactFresh-Food/static/css/main.bf4af82f.css",
+    "main.js": "/ReactFresh-Food/static/js/main.5f512e13.js",
+    "static/media/meals.jpg": "/ReactFresh-Food/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/ReactFresh-Food/index.html",
+    "main.bf4af82f.css.map": "/ReactFresh-Food/static/css/main.bf4af82f.css.map",
+    "main.5f512e13.js.map": "/ReactFresh-Food/static/js/main.5f512e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4af82f.css",
+    "static/js/main.5f512e13.js"
+  ]
+}
